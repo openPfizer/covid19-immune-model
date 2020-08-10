@@ -42,3 +42,4 @@ Wei Dai*, Rohit Rao*, Anna Sher, Nessy Tania, CJ Musante, Richard Allen**
 \* Joint first authors  
 \** Correspondence to: richard.allen@pfizer.com
 
+![alt text](https://github.com/openPfizer/DigitalHealthData/blob/master/img/osbypfizer.png)
